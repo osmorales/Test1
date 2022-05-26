@@ -51,6 +51,10 @@
     {
       "class": "oval",
       "id": "2D3E82E1-512A-4909-AC31-1A75AC2DA64B"
+    },
+    {
+      "class": "triangle",
+      "id": "51F5EBF9-F90C-4D1C-9C6E-8CEBA24E64E2"
     }
   ],
   "name": "Artboard",
