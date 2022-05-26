@@ -9,7 +9,7 @@
   },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "619E36B4-3E55-4104-9941-4D8F00F446D6",
+  "do_objectID": "24CF1C2E-5492-4294-B5E5-1E786817438D",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -22,10 +22,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1080,
-    "width": 810,
-    "x": 257,
-    "y": -39
+    "height": 376,
+    "width": 606,
+    "x": 505,
+    "y": 169
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -49,34 +49,17 @@
   "layerListExpandedType": 0,
   "layers": [
     {
+      "class": "oval",
+      "id": "2D3E82E1-512A-4909-AC31-1A75AC2DA64B"
+    },
+    {
       "class": "triangle",
-      "id": "EF5E0441-96B7-41B3-B2B9-FABA2F536707"
-    },
-    {
-      "class": "rectangle",
-      "id": "EEF44D0B-B6C1-4C5A-A0D0-288F07001D0C"
-    },
-    {
-      "class": "rectangle",
-      "id": "A499B3AD-9980-4EBC-96CF-F3E8B6297B70"
-    },
-    {
-      "class": "rectangle",
-      "id": "809CBB03-F3B1-4A10-9A84-A1A2690EF725"
-    },
-    {
-      "class": "text",
-      "id": "AFB12996-9BAF-4EE8-811A-2046E25FC706"
+      "id": "51F5EBF9-F90C-4D1C-9C6E-8CEBA24E64E2"
     }
   ],
-  "name": "10.2” iPad",
+  "name": "Artboard",
   "nameIsFixed": false,
   "presetDictionary": {
-    "allowResizedMatching": 0,
-    "height": 1080,
-    "name": "10.2” iPad",
-    "offersLandscapeVariant": 1,
-    "width": 810
   },
   "resizesContent": false,
   "resizingConstraint": 63,
@@ -117,7 +100,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "BB9E5E27-74C0-464F-A922-BA77CDE82620",
+    "do_objectID": "0BE314DF-87EB-4F3F-BE8B-393C902E4F43",
     "endMarkerType": 0,
     "fills": [
     ],
